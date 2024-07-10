@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou o GMCFNINJA</h1>
 <h3 align="center">Puto novo. Vai trabalhar na google.</h3>
 
-- 🌱 no momento estou a aprender **Phyton**
+- 🌱 no momento estou a aprender **C#**
 
 - 💬 Pergunta-me sobre **html, css.**
 
