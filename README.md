@@ -5,7 +5,7 @@
 
 - 💬 Pergunta-me sobre **html, css.**
 
-- 📫 Fala comigo **tomasproton27427@protonmail.com**
+- 📫 DISCORD: **GMCFNINJA#3134**
 
 
 <p align="left">
