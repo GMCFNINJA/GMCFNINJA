@@ -10,6 +10,11 @@
 - 📸 Instagram **s.tomass9**
 
 
-<h3 align="left">Os meus sites/projetos:</h3>
-<p><a href="https://gmcfninja.github.io/slide-puzle/">Sliding Puzle</a></p>
-<p><a href="https://gmcfninja.github.io/andre/">André Punheteiro</a></p>
+
+### Os meus sites/projetos:
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Sliding Puzle](https://gmcfninja.github.io/slide-puzle/)
+
+#### André Punheteiro
+
+&nbsp;&nbsp;&nbsp;&nbsp;[André Punheteiro](https://gmcfninja.github.io/andre/)
