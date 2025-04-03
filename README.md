@@ -11,7 +11,5 @@
 
 
 <h3 align="left">Os meus sites/projetos:</h3>
-<p><a href="https://gmcfninja.github.io/slide-puzle/" target="_blank" rel="noopener noreferrer">Sliding Puzle</a></p>
-
-    <h4 align="left" style="margin-left: 20px style="margin-left: 40px;">2024:</h4>
-    <p style="margin-left: 40px;"><a href="https://gmcfninja.github.io/andre/" target="_blank" rel="noopener noreferrer" style="color: red;">André Punheteiro</a></p>
+<p><a href="https://gmcfninja.github.io/slide-puzle/">Sliding Puzle</a></p>
+<p><a href="https://gmcfninja.github.io/andre/">André Punheteiro</a></p>
