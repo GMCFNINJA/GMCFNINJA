@@ -15,6 +15,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Sliding Puzle](https://gmcfninja.github.io/slide-puzle/)
 
-##### André Punheteiro
+###### André Punheteiro
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[André Punheteiro](https://gmcfninja.github.io/andre/)
