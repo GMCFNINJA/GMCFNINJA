@@ -13,6 +13,6 @@
 
 ## Os meus projetos:
 
-*   [Sliding Puzzle](https://gmcfninja.github.io/slide-puzle/)
+*   [Sliding Puzzle](https://gmcfninja.github.io/slide-puzzle/)
     
 *   [André Punheteiro](https://gmcfninja.github.io/andre/) 🔞
