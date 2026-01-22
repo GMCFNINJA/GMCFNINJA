@@ -16,3 +16,5 @@
 *   [Sliding Puzzle](https://gmcfninja.github.io/slide-puzzle/)
     
 *   [André Punheteiro](https://gmcfninja.github.io/andre/) 🔞
+
+*   [PennyVapes Manager](https://gmcfninja.github.io/pennyvapes_manager/) 🔞
