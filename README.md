@@ -18,3 +18,5 @@
 *   [André Punheteiro](https://gmcfninja.github.io/andre_punheteiro/) 🔞
 
 *   [PennyVapes Manager](https://gmcfninja.github.io/pennyvapes_manager/) 🔞
+
+*   [SEBPatch](https://github.com/GMCFNINJA/SEBPatch)
